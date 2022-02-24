@@ -1,0 +1,41 @@
+{
+    "location": {
+        "name": "Calgary",
+        "region": "Alberta",
+        "country": "Canada",
+        "lat": 51.08,
+        "lon": -114.08,
+        "tz_id": "America/Edmonton",
+        "localtime_epoch": 1645490918,
+        "localtime": "2022-02-21 17:48"
+    },
+    "current": {
+        "last_updated_epoch": 1645489800,
+        "last_updated": "2022-02-21 17:30",
+        "temp_c": -18.9,
+        "temp_f": -2.0,
+        "is_day": 1,
+        "condition": {
+            "text": "Light snow showers",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/368.png",
+            "code": 1255
+        },
+        "wind_mph": 8.1,
+        "wind_kph": 13.0,
+        "wind_degree": 21,
+        "wind_dir": "NNE",
+        "pressure_mb": 1042.0,
+        "pressure_in": 30.77,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 78,
+        "cloud": 81,
+        "feelslike_c": -27.1,
+        "feelslike_f": -16.8,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 1.0,
+        "gust_mph": 10.3,
+        "gust_kph": 16.6
+    }
+}

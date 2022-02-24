@@ -1,0 +1,6 @@
+-36.87,174.77 - Auckland
+-38.14,176.25 - Rotorua
+-41.3,174.78 - Wellington
+-43.53,172.63 - Christchurch
+-45.01,168.4 - Queenstown
+

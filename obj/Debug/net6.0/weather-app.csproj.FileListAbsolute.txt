@@ -1,0 +1,15 @@
+C:\Users\awotherspoon\code\c#\weather-app\bin\Debug\net6.0\weather-app.exe
+C:\Users\awotherspoon\code\c#\weather-app\bin\Debug\net6.0\weather-app.deps.json
+C:\Users\awotherspoon\code\c#\weather-app\bin\Debug\net6.0\weather-app.runtimeconfig.json
+C:\Users\awotherspoon\code\c#\weather-app\bin\Debug\net6.0\weather-app.dll
+C:\Users\awotherspoon\code\c#\weather-app\bin\Debug\net6.0\ref\weather-app.dll
+C:\Users\awotherspoon\code\c#\weather-app\bin\Debug\net6.0\weather-app.pdb
+C:\Users\awotherspoon\code\c#\weather-app\obj\Debug\net6.0\weather-app.csproj.AssemblyReference.cache
+C:\Users\awotherspoon\code\c#\weather-app\obj\Debug\net6.0\weather-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awotherspoon\code\c#\weather-app\obj\Debug\net6.0\weather-app.AssemblyInfoInputs.cache
+C:\Users\awotherspoon\code\c#\weather-app\obj\Debug\net6.0\weather-app.AssemblyInfo.cs
+C:\Users\awotherspoon\code\c#\weather-app\obj\Debug\net6.0\weather-app.csproj.CoreCompileInputs.cache
+C:\Users\awotherspoon\code\c#\weather-app\obj\Debug\net6.0\weather-app.dll
+C:\Users\awotherspoon\code\c#\weather-app\obj\Debug\net6.0\ref\weather-app.dll
+C:\Users\awotherspoon\code\c#\weather-app\obj\Debug\net6.0\weather-app.pdb
+C:\Users\awotherspoon\code\c#\weather-app\obj\Debug\net6.0\weather-app.genruntimeconfig.cache
